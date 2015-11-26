@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="header_normal">#ffe74c3c</color>
+    <color name="header_pressed">#ffc0392b</color>
+    <color name="menu_section_header">#FFDDDDDD</color>
+
+
+    <color name="blue">#259FF1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mainmenu_gray">#7A7A7A</color>
+    <color name="mainmenu_blue">#5BB6EF</color>
+    <color name="bg_gray">#F3F3F3</color>
+    <color name="gray001">#A0A0A0</color>
+    <color name="gray002">#CCCCCC</color>
+    <color name="gray003">#999999</color>
+    <color name="gray004">#DCDCDC</color>
+    <color name="gray005">#b5b5b5</color>
+    <color name="gray006">#c8c8c8</color>
+    <color name="gray007">#e8e8e8</color>
+    <color name="gray008">#d5d5d5</color>
+    <color name="gray009">#666666</color>
+    <color name="gray010">#d8d8d8</color>
+    <color name="gray011">#ededed</color>
+    <color name="blue001">#2ba3ec</color>
+    <color name="blue002">#084065</color>
+    <color name="red001">#F64A4A</color>
+    <color name="red002">#f42539</color>
+    <color name="black001">#333333</color>
+    <color name="list_divider_line">#e7e7e7</color>
+    <color name="dialog_bg_color">#99000000</color>
+    <color name="dialog_bg_content_color">#aa000000</color>
+    <color name="green0001">#2f9a27</color>
+    <color name="transparent">#00000000</color>
+    <color name="wheel_timebtn_nor">#54a3fa</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+
+</resources>
